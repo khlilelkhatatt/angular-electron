@@ -1,6 +1,7 @@
 {
   "name": "angular-electron",
   "version": "0.0.0",
+  "main": "electron/dist/main.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
